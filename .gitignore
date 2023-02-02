@@ -149,7 +149,7 @@ Thumbs.db
 *.iws
 *.iml
 *.ipr
-
+setting.xml
 ### NetBeans ###
 /nbproject/private/
 /build/
